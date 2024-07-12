@@ -1,0 +1,15 @@
+{
+  "name": "Roynoty",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "description": "Roynoty Desktop Client",
+  "author": "Roynoty Software",
+  "devDependencies": {
+    "electron": "^16.2.8"
+  }
+}
